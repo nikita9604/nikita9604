@@ -14,15 +14,10 @@ I am interested in Computer Vision, Machine Learning and Data Analytics. I am cu
 
 <link rel="stylesheet" href="stylesheets/main.css">
 
-
-    - Github
-      link: 'https://github.com/nikita9604'
+- Github &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; : 'https://github.com/nikita9604'
       
-    - LinkedIn
-      link: 'https://www.linkedin.com/in/nikita-rath'
+- LinkedIn &nbsp; &nbsp; &nbsp;&nbsp; : 'https://www.linkedin.com/in/nikita-rath'
 
-    - HackkerRank
-      link: 'https://www.hackerrank.com/nikitarath01'
+- HackkerRank : 'https://www.hackerrank.com/nikitarath01'
       
-    - YouTube
-      link: 'https://www.hackerrank.com/nikitarath01'
+- YouTube &nbsp; &nbsp; &nbsp; &nbsp;: 'https://www.hackerrank.com/nikitarath01'
