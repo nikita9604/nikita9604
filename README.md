@@ -1,4 +1,5 @@
-<img src="/image.PNG">
+<img src="nikita9604/nikita9604/image.PNG">
+
 <p align = "center">
 I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.
 </p>
