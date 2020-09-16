@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Hi there! I am Nikita Rath
 
-You can use the [editor on GitHub](https://github.com/nikita9604/nikitarath.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
+<p align = "justify">
+A 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering at Vellore Institute of Technology, Chennai, India.
+</p>
+<p align = "justify">
+I am interested in Computer Vision, Machine Learning and Data Analytics. I am currently a PRISM Developer at Samsung R&D India. I am passionately curious, detailed-oriented and a committed engineer. I like to constantly challenge myself and take up new things from learning a new programming language to doing something different than usual.
+</p>
+<p align = "justify">
+<I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> - Let me be the other this time 😊
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikita9604/nikitarath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<link rel="stylesheet" href="stylesheets/main.css">
+<div class="main">
+  <div class="image"><img src=""></div>
+<div class=card>
+  <p>Engieneering student, loves ART🖌️ and Coding💻!</p>
+  <div class="location">
+  <svg width="24" height="24" viewBox="0 0 24 24"> <path d="M12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5M12,2A7,7 0 0,0 5,9C5,14.25 12,22 12,22C12,22 19,14.25 19,9A7,7 0 0,0 12 ,2Z" /> </svg><h3>Nikita Rath</h3></div>
+  <div class="icon">
+    <a href="https://github.com/nikita9604" class="fa fa-github"target="_blank"></a>
+    <a href="https://www.hackerrank.com/nikitarath01" class="fab fa-hackerrank"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nikita-rath/" class="fa fa-linkedin"target="_blank"></a>
+    <a href="www.youtube.com/c/NIKITARATH" class="fa fa-youtube"target="_blank"></a>
+  </div>
+  </div>
+</div>
