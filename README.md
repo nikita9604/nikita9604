@@ -1,7 +1,7 @@
 # Hi there! I am Nikita Rath
 
-![Image](src)
 <p align = "justify">
+![Image](https://nikitarath.github.io/image.png)
 A 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering at Vellore Institute of Technology, Chennai, India.
 </p>
 <p align = "justify">
