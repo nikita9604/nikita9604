@@ -11,7 +11,12 @@ I am passionately curious, detailed-oriented and a committed engineer. I like to
   <p align = "right">- Let me be the other this time 😊 <p>
 </p>
 
-<link rel="stylesheet" href="stylesheets/main.css">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nikita9604&theme=nightowl&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita9604&layout=compact" />
+</a>
 
 - Github &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; : 'https://github.com/nikita9604'
       
