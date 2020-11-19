@@ -26,3 +26,7 @@ I am passionately curious, detailed-oriented and a committed engineer. I like to
 - HackkerRank : 'https://www.hackerrank.com/nikitarath01'
       
 - YouTube &nbsp; &nbsp; &nbsp; &nbsp;: 'www.youtube.com/c/NIKITARATH'
+
+<p align = "center">
+  <I><B>Let's connect, explore and enjoy! Open to anything under the sun.</B></I>
+</p>
