@@ -13,7 +13,7 @@ I am passionately curious, detailed-oriented and a committed engineer. I like to
 </p>
 
 <p align="center">
-<a href="https://github.com/nikita9604"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/NIKITARATH"><img src="https://img.favpng.com/0/5/6/youtube-logo-png-favpng-9aSw7LevnfxZKMvi1vS7BATkQ.jpg" width="70" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTs_9spKDSzFxD2qV3HIQUgIeRJepVXdx0sw&usqp=CAU" width="50" height="50"></a>
+<a href="https://github.com/nikita9604"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.northstar-alliance.org/wp-content/uploads/2019/08/youtube-logo.jpg" width="70" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTs_9spKDSzFxD2qV3HIQUgIeRJepVXdx0sw&usqp=CAU" width="50" height="50"></a>
 </p>
 
 <p align = "center">
