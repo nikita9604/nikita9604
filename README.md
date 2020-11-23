@@ -1,5 +1,7 @@
 <img src="https://github.com/nikita9604/nikita9604/blob/master/image.PNG">
 
+![](https://komarev.com/ghpvc/?username=nikita9604) 
+
 <p align = "center"><b>
 I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.</b>
 </p>
