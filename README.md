@@ -1,6 +1,10 @@
-<img src="https://github.com/nikita9604/nikita9604/blob/master/image.PNG">
+<img src="https://github.com/nikita9604/nikita9604/blob/master/profile.PNG">
 
-![](https://komarev.com/ghpvc/?username=nikita9604) 
+![](https://komarev.com/ghpvc/?username=nikita9604)
+
+<p align="center">
+<a href="https://github.com/nikita9604"><img src="https://cdn.iconscout.com/icon/free/png-256/github-5-71619.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/NIKITARATH"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" width="60" height="60"></a>
+</p>
 
 <p align = "center"><b>
 I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.</b>
@@ -14,9 +18,7 @@ I am passionately curious, detailed-oriented and a committed engineer. I like to
   <p align = "right"><I> - It starts with a step 😊 </I><p>
 </p>
 
-<p align="center">
-<a href="https://github.com/nikita9604"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/NIKITARATH"><img src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/youtube%20statistics%20youtube%20logo_0.png" width="60" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTs_9spKDSzFxD2qV3HIQUgIeRJepVXdx0sw&usqp=CAU" width="50" height="50"></a>
-</p>
+---
 
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
