@@ -1,10 +1,14 @@
 <img src="https://github.com/nikita9604/nikita9604/blob/master/profile.PNG">
 
-![](https://komarev.com/ghpvc/?username=nikita9604)
+<p align="center">
+<a href="https://github.com/nikita9604"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/NIKITARATH"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" width="60" height="60"></a>
+</p>
 
 <p align="center">
-<a href="https://github.com/nikita9604"><img src="https://cdn.iconscout.com/icon/free/png-256/github-5-71619.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/NIKITARATH"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" width="60" height="60"></a>
+  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=nikita9604">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nikita9604?color=yellow&label=%20Stars%20">
 </p>
+
 
 <p align = "center"><b>
 I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.</b>
