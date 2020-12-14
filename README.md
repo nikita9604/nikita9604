@@ -13,16 +13,23 @@
 <p align = "center"><b>
 I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.</b>
 </p>
+
 <p align = "center">
-I am interested in Computer Vision, Machine Learning and Data Analytics 💻. I am currently a PRISM Developer at Samsung R&D India and also selected for Infosys Summer of Ideas 2020.<br>
-I am passionately curious, detailed-oriented and a committed engineer. I like to constantly challenge myself and take up new things from learning a new programming language to doing something different than usual.
+I am currently a PRISM Developer at Samsung R&D India and also selected for Infosys Summer of Ideas 2020. I am passionately curious, detailed-oriented and a committed engineer. I like to constantly challenge myself, pushing my boundaries and enrich my experiences.
 </p>
+
+| Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Computer%20Vision-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Machine%20Learning-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Deep%20Learning-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Data%20Analytics-%23803D8D?style=for-the-badge"> |
+| :---: | :---: |
+| <b>College Clubs</b>   | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-IEEE%20RAS-%2330BFBF?style=for-the-badge">&nbsp;&nbsp; <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-IEEE%20WIE-%2321A5B7?style=for-the-badge">&nbsp;&nbsp; <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Aerospace%20Club-%230C99BA?style=for-the-badge">&nbsp;&nbsp; <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Team%20Aviators%20International-%231184C2?style=for-the-badge"> |
+| <b>Tools & Tech</b>    | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-C-%23FFF192?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-C%2B%2B-%23FFEA61?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Python-%23FFDD3C?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Java-%23E8B631?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Scilab-%23E59D1B?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-MATLAB-%23E08307?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-R-%23FF6700?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-HTML5-%23F55301?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-CSS-%23DE4B00?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Javascript-%23F03801?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-RStudio-%23EB1C01?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Tensorflow-%23E60001?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Tkinter-%239D0700?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Flutter-%237E0000?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Prolog-%235F0000?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Mission%20Planner-%23430002?style=for-the-badge"> |
+| <b>Connect with Me</b>  | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-LinkedIn-%2300172D?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Gmail-%23000B18?style=for-the-badge"> |
+
+---
+
 <p align = "center">
 <I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> 
   <p align = "right"><I> - It starts with a step 😊 </I><p>
 </p>
-
----
 
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
