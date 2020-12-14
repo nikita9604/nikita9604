@@ -15,7 +15,7 @@ I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Compute
 </p>
 
 <p align = "center">
-I am currently a PRISM Developer at Samsung R&D India and also selected for Infosys Summer of Ideas 2020. I am passionately curious, detailed-oriented and a committed engineer. I like to constantly challenge myself, pushing my boundaries and enrich my experiences.
+I am currently a PRISM Developer at Samsung R&D India and also selected for Infosys Summer of Ideas 2020. I am passionately curious, detailed-oriented and a committed engineer. I like to constantly challenge myself, pushing my boundaries and enriching my experiences.
 </p>
 
 | Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Computer%20Vision-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Machine%20Learning-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Deep%20Learning-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Data%20Analytics-%23803D8D?style=for-the-badge"> |
@@ -30,6 +30,8 @@ I am currently a PRISM Developer at Samsung R&D India and also selected for Info
 <I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> 
   <p align = "right"><I> - It starts with a step 😊 </I><p>
 </p>
+
+---
 
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
