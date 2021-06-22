@@ -15,7 +15,10 @@ I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Compute
 </p>
 
 <p align = "center">
-I am currently a PRISM Developer at Samsung R&D India and also selected for Infosys Summer of Ideas 2020. I am passionately curious, detailed-oriented and a committed engineer. I like to constantly challenge myself, pushing my boundaries and enriching my experiences.
+I am currently a SWE Intern at Optum - UnitedHealth Group and a Research Intern at Unviersity of Quebec, Trois Rivieres. I like to constantly challenge myself, pushing my boundaries and enriching my experiences. I am passionately curious, detailed-oriented and a committed engineer. 
+</p>
+<p align = "center">
+Past Experience - PRISM Developer at Samsung R&D India || Infosys Summer of Ideas Intern 2020. 
 </p>
 
 ---
