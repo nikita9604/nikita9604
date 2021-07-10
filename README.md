@@ -11,7 +11,7 @@
 
 
 <p align = "center"><b>
-I am a 3rd Year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.</b>
+I am a Final year undergraduate student pursuing B.Tech in Electronics and Computer Engineering<br>at Vellore Institute of Technology, Chennai, India.</b>
 </p>
 
 <p align = "center">
