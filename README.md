@@ -32,13 +32,6 @@ Past Experience - Research Intern at Unviersity of Quebec, Trois Rivieres || SWE
 ---
 
 <p align = "center">
-<I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> 
-  <p align = "right"><I> - It starts with a step 😊 </I><p>
-</p>
-
----
-
-<p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
 </p>
 
