@@ -15,7 +15,7 @@ I am a Final year undergraduate student pursuing B.Tech in Electronics and Compu
 </p>
 
 <p align = "center">
-I am currently a Project Intern at PathPartner Technologies. I like to constantly challenge myself, pushing my boundaries and enriching my experiences. I am passionately curious, detailed-oriented and a committed engineer. 
+I am currently a Project Intern at PathPartner Interior Sensing Technology. I like to constantly challenge myself, pushing my boundaries and enriching my experiences. I am passionately curious, detailed-oriented and a committed engineer. 
 </p>
 <p align = "center">
 Past Experience - Research Intern at Unviersity of Quebec, Trois Rivieres || SWE Intern at Optum - UnitedHealth Group || PRISM Developer at Samsung R&D India || Infosys Summer of Ideas Intern 2020. 
