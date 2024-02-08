@@ -11,7 +11,7 @@
 
 
 <p align = "center"><b>
-I am a Software Engineer at Optum - UnitedHealth Group.<br>
+I am an Associate Software Engineer at Optum Global Solutions (UnitedHealth Group)<br>
 I have graduated from Vellore Institute of Technology with a Bachelor's in Electronics and Computer Engineering (ECM).</b>
 </p>
 
@@ -35,7 +35,7 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 <br>
 
 <p align = "center">
-<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=nikita9604&theme=nightowl&show_icons=true" />
+<!--<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=nikita9604&theme=nightowl&show_icons=true" />-->
 <img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita9604&layout=compact" />
 </p>
 
