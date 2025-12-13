@@ -11,7 +11,7 @@
 
 
 <p align = "center"><b>
-I am an Associate Software Engineer at Optum Global Solutions (UnitedHealth Group)<br>
+I have worked as a Software Engineer at Optum Global Solutions (UnitedHealth Group)<br>
 <i>| Java Spring | Azure Cloud |</i><br><br>
 I have graduated from Vellore Institute of Technology with a Bachelor's in Electronics and Computer Engineering (ECM).</b>
 </p>
