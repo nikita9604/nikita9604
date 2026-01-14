@@ -1,7 +1,18 @@
-<img src="https://github.com/nikita9604/nikita9604/blob/master/profile.PNG">
+<p align = "center">
+  <img src="https://github.com/nikita9604/nikita9604/blob/master/Tagline.png">
+</p>
 
 <p align="center">
-<a href="https://github.com/nikita9604"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikita-rath/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://nikitarath.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/nikitarath01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/NIKITARATH"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" width="60" height="60"></a>
+<a href="https://github.com/nikita9604">
+  <img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikita-rath/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nikitarath.medium.com/">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/nikitarath01">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-svg-download-png-2944922.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/NIKITARATH">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" width="60" height="60"></a>
 </p>
 
 <p align="center">
@@ -23,7 +34,7 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 ---
 
 <p align = "center">
-  <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
+  <img src="https://github.com/nikita9604/nikita9604/blob/master/Ending.png">
 </p>
 
 <p align = "center">
